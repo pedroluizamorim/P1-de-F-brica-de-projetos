@@ -5,6 +5,12 @@ Nossa equipe criou um projeto com a intenção de automatizar as vendas "em cade
 
 # Delimitação parcial problema a ser resolvido e a ser respondido:
 
+A ideia proposta pela empresa, é modernizar o controle das contas dos clientes de uma pequena vendinha, que hoje em dia ainda funciona no papel.
+Anotar dívidas pendentes em cadernos pode virar uma bagunça, e fica difícil organizar e lembrar de tudo.
+O nosso desafio é criar um sistema simples, mas que funcione de verdade, para cadastrar clientes, buscar dívidas e acompanhar o que ainda está pendente.
+A proposta é ajudar o Seu Zé a ter tudo mais organizado, sem dor de cabeça, e com muito mais praticidade no dia a dia.
+No final, a gente quer que ele consiga controlar as contas de um jeito fácil e eficiente, sem depender dos papéis.
+
 # Concepção parcial dos objetivos:
 
 
